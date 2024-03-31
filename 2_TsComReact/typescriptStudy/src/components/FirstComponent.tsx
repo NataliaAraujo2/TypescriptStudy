@@ -1,6 +1,5 @@
 //3- Components
 
-import React from 'react'
 
 
 
